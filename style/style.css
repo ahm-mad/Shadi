@@ -383,7 +383,7 @@ span{
         max-height: 250px;
     }
     #main-header img{
-        width: 100%;
+        width: 105%;
         max-height: 250px;
     }
     .btn{
@@ -419,7 +419,7 @@ span{
         margin-bottom: 20px;
     }
     #image-showcase .bg{
-        min-height: 250vh;
+        min-height: 300vh;
     }
     #image-showcase .container{
         flex-direction: column;
@@ -504,26 +504,11 @@ span{
 }
 @media(max-width:410px){
     #image-showcase .bg{
-        min-height: 280vh;
-    }
-}
-@media(max-width:356px){
-    #image-showcase .bg{
-        min-height: 300vh;
-    }
-}
-@media(max-width:320px){
-    #image-showcase .bg{
         min-height: 320vh;
     }
 }
-@media(max-width:285px){
+@media(max-width:340px){
     #image-showcase .bg{
-        min-height: 350vh;
-    }
-}
-@media(max-width:255px){
-    #image-showcase .bg{
-        min-height: 380vh;
+        min-height: 360vh;
     }
 }
